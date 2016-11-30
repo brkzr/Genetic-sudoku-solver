@@ -1,0 +1,9 @@
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\bin\Debug\YZprj.exe.config
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\bin\Debug\YZprj.exe
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\bin\Debug\YZprj.pdb
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\obj\Debug\YZprj.csprojResolveAssemblyReference.cache
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\obj\Debug\YZprj.Form1.resources
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\obj\Debug\YZprj.Properties.Resources.resources
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\obj\Debug\YZprj.csproj.GenerateResource.Cache
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\obj\Debug\YZprj.exe
+c:\users\burak\documents\visual studio 2012\Projects\YZprj\YZprj\obj\Debug\YZprj.pdb
